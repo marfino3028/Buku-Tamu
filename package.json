@@ -19,6 +19,6 @@
         "sass-loader": "^7.1.0"
     },
     "dependencies": {
-        "highcharts": "^8.0.0"
+        "highcharts": "^8.1.1"
     }
 }
